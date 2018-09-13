@@ -9,10 +9,12 @@ Para atingir esse objetivo utilizamos:
 ## Pessoas
 
 
-|[<img src="https://avatars0.githubusercontent.com/u/17624056?s=460&v=4" width="130px;"/><br /><sub>Victor Haberkorn a.k.a. Xopis</sub>](https://github.com/vhaberkorn)<br /> | [<img 
-src="https://avatars3.githubusercontent.com/u/6391604?s=400&v=4" width="130px;"/><br /> <sub> Fernando Cardoso ak Fe </sub>](https://github.com/#)<br /> | [<img 
-src="https://avatars2.githubusercontent.com/u/11603769?s=400&v=4" width="130px;"/><br /> <sub>Willian Lopes a.k.a B1zzy</sub>](https://github.com/B1zzy1) 	
 
+<p float ="left"> 
+	<img src="https://avatars0.githubusercontent.com/u/17624056?s=460&v=4" width="130px;"/><br /><sub>Victor Haberkorn a.k.a. Xopis</sub>](https://github.com/vhaberkorn)<br /> 
+	<img src="https://avatars3.githubusercontent.com/u/6391604?s=400&v=4" width="130px;"/><br /><sub> Fernando Cardoso ak Fe </sub>](https://github.com/#)<br /> 
+	<img src="https://avatars2.githubusercontent.com/u/11603769?s=400&v=4" width="130px;"/><br /> <sub>Willian Lopes a.k.a B1zzy</sub>](https://github.com/B1zzy1) <br /> 
+</p>
 
 
 ## Processos
