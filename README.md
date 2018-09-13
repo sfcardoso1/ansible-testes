@@ -7,9 +7,12 @@ Para atingir esse objetivo utilizamos:
 - **Concientização/Educação** -> Tecnologia e processos somente não garantem a segurança. Acreditamos fortemente que pessoas são a linha de frente para garantir a segurança. Por isso, investimos na criação de uma cultura de segurança, canais abertos para dúvidas e sessões de treinamento em conceitos de segurança.
 
 ## Pessoas
-|[<img src="https://avatars0.githubusercontent.com/u/17624056?s=460&v=4" width="130px;"/><br /><sub>Victor Haberkorn a.k.a. Xopis</sub>](https://github.com/vhaberkorn)<br /> 
-|[<img src="https://avatars3.githubusercontent.com/u/6391604?s=400&v=4" width="130px;"/><br /><sub>Fernando Cardoso a.k.a Fe</sub>](https://github.com/#)<br /> 
-|[<img src="https://avatars2.githubusercontent.com/u/11603769?s=400&v=4" width="130px;"/><br /><sub>Willian Lopes a.k.a B1zzy</sub>](https://github.com/B1zzy1) | :---: | :---: | :---: |
+|[<img src="https://avatars0.githubusercontent.com/u/17624056?s=460&v=4" width="130px;"/><br /><sub>Victor Haberkorn a.k.a. Xopis</sub>](https://github.com/vhaberkorn)<br /> | [<img 
+src="https://avatars3.githubusercontent.com/u/6391604?s=400&v=4" width="130px;"/><br /><sub>Fernando Cardoso a.k.a Fe</sub>](https://github.com/#)<br /> | [<img 
+src="https://avatars2.githubusercontent.com/u/11603769?s=400&v=4" width="130px;"/><br /><sub>Willian Lopes a.k.a B1zzy</sub>](https://github.com/B1zzy1) 
+
+
+| :---: | :---: | :---: |
 
 ## Processos
 - **1:1** -> Conversas individuais, abordando assuntos pessoais e profissionais toda semana. _Anything goes,no bullshit_
