@@ -1,39 +1,39 @@
-ntp
-===
+# Security Team 
+Nosso desafio é garantir segurança digital dos produtos e pessoas da Pagar.me e conformidade com padrões e legislações.
 
-[![Build Status](https://travis-ci.org/ericsysmin/ansible-role-ntp.png?branch=master)](https://travis-ci.org/ericsysmin/ansible-role-ntp)
+Para atingir esse objetivo utilizamos:
+- **Tecnologia** -> Desenvolvimento e suporte na criação e implementação de tecnologias que aumentem a confidencialidade, integridade e disponibilidade.
+- **Processos** -> Criamos e modificamos os processos para garantir segurança e conformidade.
+- **Concientização/Educação** -> Tecnologia e processos somente não garantem a segurança. Acreditamos fortemente que pessoas são a linha de frente para garantir a segurança. Por isso, investimos na criação de uma cultura de segurança, canais abertos para dúvidas e sessões de treinamento em conceitos de segurança.
 
-This role enables users to install and configure ntp on their hosts.
+## Pessoas
+|[<img src="https://avatars0.githubusercontent.com/u/17624056?s=460&v=4" width="130px;"/><br /><sub>Victor Haberkorn a.k.a. Xopis</sub>](https://github.com/vhaberkorn)<br /> 
+|[<img src="https://avatars3.githubusercontent.com/u/6391604?s=400&v=4" width="130px;"/><br /><sub>Fernando Cardoso a.k.a Fe</sub>](https://github.com/#)<br /> 
+|[<img src="https://avatars2.githubusercontent.com/u/11603769?s=400&v=4" width="130px;"/><br /><sub>Willian Lopes a.k.a B1zzy</sub>](https://github.com/B1zzy1) | :---: | :---: | :---: |
 
-Requirements
-------------
+## Processos
+- **1:1** -> Conversas individuais, abordando assuntos pessoais e profissionais toda semana. _Anything goes,no bullshit_
+- **Kanban** -> revamped
+- **~~Daily~~** **~~Eveningly~~** **Weekly** -> Conversa de 1h sobre status e andamento das tarefas. Ocorre toda segunda-feira. :heart:
+- **Retro** -> Bate-papo descontraido com toda a equipe sobre o que foi bom e o que foi ruim nas últimas semanas.
 
-This role requires Ansible 1.4 or higher, and platform requirements are listed
-in the metadata file.
+## Ferramentas
+- **Github** - código, kanban (por enquanto) e documentos.
+- **Slack** - comunicacão.
 
-Examples
---------
+## Metodologia
+**NIST CSF**
+Utilizamos o NIST Cyber Security Framework para classificarmos as tasks em nosso roadmap e metrificar em quais áreas estamos investindo nossos esforços.
 
-1) Install ntp and set the default settings.
+- **IDENTIFY** - Quaisquer ações que ajudam a identificar as aplicações, infraestrutura, informação e ativos que precisam ter seu risco gerenciado.
 
-	- hosts: all
-	  roles:
-	    - role: ntp
+- **PROTECT** - Desenvolver e implementar contra medidas para garantir a disponibilidade e integridade dos serviços e infraestrutura.
 
-2) Install ntp and set some custom servers.
+- **DETECT** - Desenvolver e implementar funções ou atividades que identifiquem a ocorrência de um evento de segurança de informação.
 
-	- hosts: all
-	  roles:
-	    - role: ntp
-	      ntp_config_server: [2.ubuntu.pool.ntp.org, 1.ubuntu.pool.ntp.org]
+- **RESPOND** -Desenvolver e implementar funções ou processos que definam curso de ação referente a ocorrência de um evento de segurança.
 
-License
--------
+- **RECOVER** - Desenvolver e implementar atividades, processos e planos para restabelecer o funções criticas para operação do negócio.
 
-Qualquer porra
-
-Author Information
-------------------
-
-- Fefo
-- Arroz
+## Issues
+Nossas tasks são categorizadas, nomeadas e descritas de maneira escrita/literal em `/security-team/issues`. Em formato de comentários, atualizamos sempre o status da tarefa (o que já fizemos até o momento). Você podesse acessar as issues [aqui.](https://github.com/pagarme/security-team/issues)
